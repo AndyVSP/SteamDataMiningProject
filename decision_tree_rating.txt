@@ -1,0 +1,1882 @@
+|--- total_user_reviews <= 0.50
+|   |--- class: 1
+|--- total_user_reviews >  0.50
+|   |--- total_user_reviews <= 2.50
+|   |   |--- total_user_reviews <= 1.50
+|   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |--- total_achievements <= 0.50
+|   |   |   |   |   |--- tag_Pixel Graphics <= 0.50
+|   |   |   |   |   |   |--- initial_price <= 19.49
+|   |   |   |   |   |   |   |--- trackedControllerSupport <= 0.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 1915.00
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 527.00
+|   |   |   |   |   |   |   |   |   |   |--- required_age <= 8.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- required_age >  8.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- developers_code >  527.00
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 8620.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  8620.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- publishers_code >  1915.00
+|   |   |   |   |   |   |   |   |   |--- tag_First-Person <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_RPG <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 20
+|   |   |   |   |   |   |   |   |   |   |--- tag_RPG >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |--- tag_First-Person >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 38312.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  38312.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- trackedControllerSupport >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- initial_price >  19.49
+|   |   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |   |--- has_legal_notice <= 0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 34.99
+|   |   |   |   |   |   |   |   |   |   |--- German <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |   |--- German >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  34.99
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 129.99
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  129.99
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- has_legal_notice >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |   |--- partialControllerSupport <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- partialControllerSupport >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- tag_Pixel Graphics >  0.50
+|   |   |   |   |   |   |--- coOp <= 0.50
+|   |   |   |   |   |   |   |--- publishers_code <= 15167.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2023.50
+|   |   |   |   |   |   |   |   |   |--- Dutch <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Casual <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Casual >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- Dutch >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- release_year >  2023.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 14.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  14.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- publishers_code >  15167.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2019.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- release_year >  2019.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 40384.00
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 15455.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  15455.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  40384.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- coOp >  0.50
+|   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |--- total_achievements >  0.50
+|   |   |   |   |   |--- tag_Action-Adventure <= 0.50
+|   |   |   |   |   |   |--- release_day_of_month <= 2.50
+|   |   |   |   |   |   |   |--- pVp <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- pVp >  0.50
+|   |   |   |   |   |   |   |   |--- release_month <= 9.00
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- release_month >  9.00
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- release_day_of_month >  2.50
+|   |   |   |   |   |   |   |--- Dutch <= 0.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 28653.00
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 27016.00
+|   |   |   |   |   |   |   |   |   |   |--- owners_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- owners_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  27016.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- publishers_code >  28653.00
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Stylized <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- tag_Stylized >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- Dutch >  0.50
+|   |   |   |   |   |   |   |   |--- mac <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Korean <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 6.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  6.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- Korean >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- mac >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- tag_Action-Adventure >  0.50
+|   |   |   |   |   |   |--- required_age <= 10.50
+|   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- required_age >  10.50
+|   |   |   |   |   |   |   |--- steamLeaderboards <= 0.50
+|   |   |   |   |   |   |   |   |--- required_age <= 11.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- required_age >  11.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- steamLeaderboards >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |--- tag_Colorful <= 0.50
+|   |   |   |   |   |--- total_achievements <= 8.50
+|   |   |   |   |   |   |--- tag_Family Friendly <= 0.50
+|   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2017.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 3.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_VR <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_VR >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- release_month >  3.50
+|   |   |   |   |   |   |   |   |   |   |--- g_rpg <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- g_rpg >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- release_year >  2017.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 14.50
+|   |   |   |   |   |   |   |   |   |   |--- linux <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- linux >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  14.50
+|   |   |   |   |   |   |   |   |   |   |--- mac <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 20
+|   |   |   |   |   |   |   |   |   |   |--- mac >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |--- tag_Horror <= 0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 45484.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 28029.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  28029.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- developers_code >  45484.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Horror >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_3D <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- tag_3D >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- tag_Family Friendly >  0.50
+|   |   |   |   |   |   |   |--- singlepalyer <= 0.50
+|   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 3.00
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_day_of_week_code >  3.00
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- singlepalyer >  0.50
+|   |   |   |   |   |   |   |   |--- Korean <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- release_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Korean >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 4.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  4.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Casual <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Casual >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- total_achievements >  8.50
+|   |   |   |   |   |   |--- release_month <= 4.50
+|   |   |   |   |   |   |   |--- developers_code <= 21443.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- developers_code >  21443.50
+|   |   |   |   |   |   |   |   |--- tag_Combat <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Polish <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 14.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month >  14.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- Polish >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- tag_Combat >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Early Access <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- tag_Early Access >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- release_month >  4.50
+|   |   |   |   |   |   |   |--- developers_code <= 5200.50
+|   |   |   |   |   |   |   |   |--- tag_Retro <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- tag_Retro >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- developers_code >  5200.50
+|   |   |   |   |   |   |   |   |--- developers_code <= 45913.00
+|   |   |   |   |   |   |   |   |   |--- required_age <= 12.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Top-Down <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- tag_Top-Down >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- required_age >  12.50
+|   |   |   |   |   |   |   |   |   |   |--- release_year <= 2021.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- release_year >  2021.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- developers_code >  45913.00
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- tag_Colorful >  0.50
+|   |   |   |   |   |--- publishers_code <= 36529.50
+|   |   |   |   |   |   |--- g_rpg <= 0.50
+|   |   |   |   |   |   |   |--- German <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 7.50
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 3891.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  3891.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  7.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Female Protagonist <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- tag_Female Protagonist >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 29038.50
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 24924.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  24924.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- developers_code >  29038.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- German >  0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- g_rpg >  0.50
+|   |   |   |   |   |   |   |--- publishers_code <= 7688.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- publishers_code >  7688.50
+|   |   |   |   |   |   |   |   |--- tag_Story Rich <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Exploration <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- tag_Exploration >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Story Rich >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- publishers_code >  36529.50
+|   |   |   |   |   |   |--- release_year <= 2023.50
+|   |   |   |   |   |   |   |--- developers_code <= 41173.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- developers_code >  41173.50
+|   |   |   |   |   |   |   |   |--- Japanese <= 0.50
+|   |   |   |   |   |   |   |   |   |--- required_age <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- required_age >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements <= 11.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements >  11.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- Japanese >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 5.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_month >  5.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- release_year >  2023.50
+|   |   |   |   |   |   |   |--- class: 5
+|   |   |--- total_user_reviews >  1.50
+|   |   |   |--- total_achievements <= 5.50
+|   |   |   |   |--- tag_Pixel Graphics <= 0.50
+|   |   |   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |   |   |--- English <= 0.50
+|   |   |   |   |   |   |   |--- tag_Exploration <= 0.50
+|   |   |   |   |   |   |   |   |--- g_rpg <= 0.50
+|   |   |   |   |   |   |   |   |   |--- g_adventure <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_year <= 2019.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- release_year >  2019.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- g_adventure >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 17.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month >  17.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- g_rpg >  0.50
+|   |   |   |   |   |   |   |   |   |--- fullControlerSupport <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- fullControlerSupport >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- tag_Exploration >  0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- English >  0.50
+|   |   |   |   |   |   |   |--- Chinese <= 0.50
+|   |   |   |   |   |   |   |   |--- release_day_of_month <= 25.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 37622.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 42428.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 20
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  42428.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  37622.50
+|   |   |   |   |   |   |   |   |   |   |--- required_age <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- required_age >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_day_of_month >  25.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_month >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- has_legal_notice <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- has_legal_notice >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |--- Chinese >  0.50
+|   |   |   |   |   |   |   |   |--- owners_code <= 1.50
+|   |   |   |   |   |   |   |   |   |--- linux <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_2D Platformer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- tag_2D Platformer >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- linux >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Arcade <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- tag_Arcade >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- owners_code >  1.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |   |   |--- tag_Singleplayer <= 0.50
+|   |   |   |   |   |   |   |--- tag_Arcade <= 0.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 2372.00
+|   |   |   |   |   |   |   |   |   |--- tag_Multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- tag_Multiplayer >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- publishers_code >  2372.00
+|   |   |   |   |   |   |   |   |   |--- release_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 21164.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  21164.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |--- release_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Funny <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- tag_Funny >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Arcade >  0.50
+|   |   |   |   |   |   |   |   |--- initial_price <= 3.49
+|   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- initial_price >  3.49
+|   |   |   |   |   |   |   |   |   |--- g_indie <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- g_indie >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Funny <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Funny >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- tag_Singleplayer >  0.50
+|   |   |   |   |   |   |   |--- release_day_of_month <= 25.50
+|   |   |   |   |   |   |   |   |--- tag_Sci-fi <= 0.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 11.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 15574.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  15574.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 21
+|   |   |   |   |   |   |   |   |   |--- release_month >  11.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Physics <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- tag_Physics >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Sci-fi >  0.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 33817.00
+|   |   |   |   |   |   |   |   |   |   |--- release_month <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- release_month >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  33817.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |--- release_day_of_month >  25.50
+|   |   |   |   |   |   |   |   |--- initial_price <= 5.49
+|   |   |   |   |   |   |   |   |   |--- required_age <= 11.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_2D <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- tag_2D >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- required_age >  11.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_3D <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- tag_3D >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- initial_price >  5.49
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 27.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  27.50
+|   |   |   |   |   |   |   |   |   |   |--- has_legal_notice <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- has_legal_notice >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |--- tag_Pixel Graphics >  0.50
+|   |   |   |   |   |--- release_year <= 2018.50
+|   |   |   |   |   |   |--- release_month <= 10.00
+|   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |--- release_month >  10.00
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- release_year >  2018.50
+|   |   |   |   |   |   |--- tag_Strategy <= 0.50
+|   |   |   |   |   |   |   |--- initial_price <= 4.49
+|   |   |   |   |   |   |   |   |--- tag_Adventure <= 0.50
+|   |   |   |   |   |   |   |   |   |--- has_movies <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- has_movies >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |--- tag_Adventure >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_3D <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Combat <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Combat >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- tag_3D >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Choices Matter <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Choices Matter >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- initial_price >  4.49
+|   |   |   |   |   |   |   |   |--- release_year <= 2021.50
+|   |   |   |   |   |   |   |   |   |--- tag_Anime <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Singleplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- tag_Singleplayer >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- tag_Anime >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Top-Down <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |   |--- tag_Top-Down >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- release_year >  2021.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Stylized <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- tag_Stylized >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- release_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- tag_Strategy >  0.50
+|   |   |   |   |   |   |   |--- developers_code <= 44365.00
+|   |   |   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_RPG <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- release_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- tag_RPG >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_month <= 9.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- release_month >  9.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Singleplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Singleplayer >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |--- developers_code >  44365.00
+|   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- total_achievements >  5.50
+|   |   |   |   |--- tag_Linear <= 0.50
+|   |   |   |   |   |--- publishers_code <= 5399.50
+|   |   |   |   |   |   |--- tag_Sci-fi <= 0.50
+|   |   |   |   |   |   |   |--- developers_code <= 3753.00
+|   |   |   |   |   |   |   |   |--- release_month <= 5.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_month >  5.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 60.00
+|   |   |   |   |   |   |   |   |   |   |--- tag_Singleplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- tag_Singleplayer >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  60.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |--- developers_code >  3753.00
+|   |   |   |   |   |   |   |   |--- developers_code <= 16916.00
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- developers_code >  16916.00
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 20068.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- developers_code >  20068.50
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements <= 31.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements >  31.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |--- tag_Sci-fi >  0.50
+|   |   |   |   |   |   |   |--- total_achievements <= 29.00
+|   |   |   |   |   |   |   |   |--- tag_Atmospheric <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- tag_Atmospheric >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- total_achievements >  29.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- publishers_code >  5399.50
+|   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |--- singlepalyer <= 0.50
+|   |   |   |   |   |   |   |   |--- initial_price <= 2.49
+|   |   |   |   |   |   |   |   |   |--- tag_Family Friendly <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- tag_Family Friendly >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- initial_price >  2.49
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- singlepalyer >  0.50
+|   |   |   |   |   |   |   |   |--- tag_Physics <= 0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 12844.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Survival <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- tag_Survival >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- developers_code >  12844.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- tag_Physics >  0.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 19.00
+|   |   |   |   |   |   |   |   |   |   |--- Japanese <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- Japanese >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  19.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |--- tag_Relaxing <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Adventure <= 0.50
+|   |   |   |   |   |   |   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Stylized <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- tag_Stylized >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- tag_Adventure >  0.50
+|   |   |   |   |   |   |   |   |   |--- steamCloud <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 1.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  1.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- steamCloud >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Shooter <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |   |--- tag_Shooter >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Relaxing >  0.50
+|   |   |   |   |   |   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |   |   |   |   |   |--- tag_Puzzle <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- tag_Puzzle >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |   |   |   |   |   |--- tag_Casual <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- tag_Casual >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 1.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  1.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |--- tag_Linear >  0.50
+|   |   |   |   |   |--- initial_price <= 2.25
+|   |   |   |   |   |   |--- tag_Platformer <= 0.50
+|   |   |   |   |   |   |   |--- tag_Funny <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Funny >  0.50
+|   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |--- tag_Platformer >  0.50
+|   |   |   |   |   |   |   |--- developers_code <= 30929.50
+|   |   |   |   |   |   |   |   |--- Spanish <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- Spanish >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- developers_code >  30929.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- initial_price >  2.25
+|   |   |   |   |   |   |--- tag_3D <= 0.50
+|   |   |   |   |   |   |   |--- publishers_code <= 1412.00
+|   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |--- publishers_code >  1412.00
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- tag_3D >  0.50
+|   |   |   |   |   |   |   |--- release_day_of_week_code <= 2.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- release_day_of_week_code >  2.50
+|   |   |   |   |   |   |   |   |--- release_day_of_month <= 7.00
+|   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- release_day_of_month >  7.00
+|   |   |   |   |   |   |   |   |   |--- tag_Physics <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Physics >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- g_casual <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- g_casual >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |--- total_user_reviews >  2.50
+|   |   |--- total_achievements <= 6.50
+|   |   |   |--- total_user_reviews <= 3.50
+|   |   |   |   |--- release_year <= 2020.50
+|   |   |   |   |   |--- tag_VR <= 0.50
+|   |   |   |   |   |   |--- pVp <= 0.50
+|   |   |   |   |   |   |   |--- initial_price <= 14.99
+|   |   |   |   |   |   |   |   |--- required_age <= 15.50
+|   |   |   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 10918.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  10918.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- required_age >  15.50
+|   |   |   |   |   |   |   |   |   |--- tag_Casual <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- tag_Casual >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- initial_price >  14.99
+|   |   |   |   |   |   |   |   |--- initial_price <= 22.49
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 11.00
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 17.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  17.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  11.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- initial_price >  22.49
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 28102.50
+|   |   |   |   |   |   |   |   |   |   |--- Portuguese <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |   |--- Portuguese >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- developers_code >  28102.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- pVp >  0.50
+|   |   |   |   |   |   |   |--- publishers_code <= 33827.00
+|   |   |   |   |   |   |   |   |--- publishers_code <= 6847.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 6623.00
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 6.99
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  6.99
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- developers_code >  6623.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- publishers_code >  6847.50
+|   |   |   |   |   |   |   |   |   |--- g_action <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Difficult <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- tag_Difficult >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- g_action >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- Polish <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- Polish >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- publishers_code >  33827.00
+|   |   |   |   |   |   |   |   |--- developers_code <= 40563.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 4.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  4.50
+|   |   |   |   |   |   |   |   |   |   |--- g_casual <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |   |--- g_casual >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- developers_code >  40563.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- tag_VR >  0.50
+|   |   |   |   |   |   |--- initial_price <= 1.49
+|   |   |   |   |   |   |   |--- release_month <= 10.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- release_month >  10.50
+|   |   |   |   |   |   |   |   |--- g_action <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Casual <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- tag_Casual >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- g_action >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- initial_price >  1.49
+|   |   |   |   |   |   |   |--- release_day_of_week_code <= 3.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 12947.50
+|   |   |   |   |   |   |   |   |   |--- g_action <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 2.99
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  2.99
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- g_action >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- publishers_code >  12947.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 11.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 32186.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  32186.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- release_month >  11.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 2.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  2.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- release_day_of_week_code >  3.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 3475.50
+|   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- publishers_code >  3475.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 14.50
+|   |   |   |   |   |   |   |   |   |   |--- g_rpg <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- g_rpg >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  14.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 19.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month >  19.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |--- release_year >  2020.50
+|   |   |   |   |   |--- developers_code <= 44073.50
+|   |   |   |   |   |   |--- required_age <= 13.50
+|   |   |   |   |   |   |   |--- release_year <= 2023.50
+|   |   |   |   |   |   |   |   |--- tag_Retro <= 0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 22.49
+|   |   |   |   |   |   |   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |--- initial_price >  22.49
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 3.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  3.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- tag_Retro >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Female Protagonist <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_2D <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_2D >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |--- tag_Female Protagonist >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 6.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  6.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- release_year >  2023.50
+|   |   |   |   |   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 21650.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 6.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  6.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  21650.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Colorful <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- tag_Colorful >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- required_age >  13.50
+|   |   |   |   |   |   |   |--- g_strategy <= 0.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 4438.00
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 1.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- initial_price >  1.49
+|   |   |   |   |   |   |   |   |   |   |--- tag_First-Person <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_First-Person >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- publishers_code >  4438.00
+|   |   |   |   |   |   |   |   |   |--- Korean <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Pixel Graphics <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- tag_Pixel Graphics >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |--- Korean >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- system_reqs_code <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |   |--- system_reqs_code >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- g_strategy >  0.50
+|   |   |   |   |   |   |   |   |--- g_indie <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Fantasy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- tag_Fantasy >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- g_indie >  0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 8922.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- developers_code >  8922.00
+|   |   |   |   |   |   |   |   |   |   |--- tag_Shooter <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- tag_Shooter >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- developers_code >  44073.50
+|   |   |   |   |   |   |--- tag_2D <= 0.50
+|   |   |   |   |   |   |   |--- tag_Early Access <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 3.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 16.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month >  16.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- release_month >  3.50
+|   |   |   |   |   |   |   |   |   |   |--- has_legal_notice <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- has_legal_notice >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Linear <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |   |--- tag_Linear >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Early Access >  0.50
+|   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- tag_2D >  0.50
+|   |   |   |   |   |   |   |--- publishers_code <= 39546.50
+|   |   |   |   |   |   |   |   |--- system_reqs_code <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- system_reqs_code >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- publishers_code >  39546.50
+|   |   |   |   |   |   |   |   |--- German <= 0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 46769.00
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 4.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  4.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- developers_code >  46769.00
+|   |   |   |   |   |   |   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- German >  0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 45149.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- developers_code >  45149.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |--- total_user_reviews >  3.50
+|   |   |   |   |--- tag_2D <= 0.50
+|   |   |   |   |   |--- total_user_reviews <= 92.50
+|   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 7.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 5.50
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 1547.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  1547.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 20
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 2879.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  2879.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  5.50
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Horror <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 26
+|   |   |   |   |   |   |   |   |   |   |--- tag_Horror >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- German <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- German >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |--- total_user_reviews >  7.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2018.50
+|   |   |   |   |   |   |   |   |   |--- is_free <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- has_professional_reviews <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 28
+|   |   |   |   |   |   |   |   |   |   |--- has_professional_reviews >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |--- is_free >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |--- release_year >  2018.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 43.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 29
+|   |   |   |   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 21
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  43.50
+|   |   |   |   |   |   |   |   |   |   |--- Russian <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- Russian >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 7.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 5.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 42735.50
+|   |   |   |   |   |   |   |   |   |   |--- has_movies <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- has_movies >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |--- developers_code >  42735.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 4.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  4.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  5.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 45664.00
+|   |   |   |   |   |   |   |   |   |   |--- g_rpg <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- g_rpg >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- developers_code >  45664.00
+|   |   |   |   |   |   |   |   |   |   |--- Turkish <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Turkish >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- total_user_reviews >  7.50
+|   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Colorful <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |--- tag_Colorful >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 29.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month >  29.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 12.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews >  12.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 47.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews >  47.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |--- total_user_reviews >  92.50
+|   |   |   |   |   |   |--- total_user_reviews <= 553.50
+|   |   |   |   |   |   |   |--- release_year <= 2018.50
+|   |   |   |   |   |   |   |   |--- tag_Action <= 0.50
+|   |   |   |   |   |   |   |   |   |--- owners_code <= 4.50
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 172.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews >  172.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 21
+|   |   |   |   |   |   |   |   |   |--- owners_code >  4.50
+|   |   |   |   |   |   |   |   |   |   |--- g_indie <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- g_indie >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |--- tag_Action >  0.50
+|   |   |   |   |   |   |   |   |   |--- median_playtime <= 2.11
+|   |   |   |   |   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- median_playtime >  2.11
+|   |   |   |   |   |   |   |   |   |   |--- owners_code <= 3.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- owners_code >  3.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |--- release_year >  2018.50
+|   |   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 162.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews >  162.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 18
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 17.88
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  17.88
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Adventure <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_VR <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- tag_VR >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- tag_Adventure >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Early Access <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Early Access >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |--- total_user_reviews >  553.50
+|   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 3408.00
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2015.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Early Access <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- tag_Early Access >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- release_year >  2015.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  3408.00
+|   |   |   |   |   |   |   |   |   |--- tag_3D <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- tag_3D >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_month <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- release_month >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |--- initial_price <= 2.49
+|   |   |   |   |   |   |   |   |   |--- steamCloud <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Shooter <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- tag_Shooter >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |--- steamCloud >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- median_playtime <= 9.04
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- median_playtime >  9.04
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- initial_price >  2.49
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 1175.50
+|   |   |   |   |   |   |   |   |   |   |--- median_playtime <= 13.82
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- median_playtime >  13.82
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  1175.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |--- tag_2D >  0.50
+|   |   |   |   |   |--- total_user_reviews <= 28.50
+|   |   |   |   |   |   |--- release_year <= 2021.50
+|   |   |   |   |   |   |   |--- fullControlerSupport <= 0.50
+|   |   |   |   |   |   |   |   |--- familySharing <= 0.50
+|   |   |   |   |   |   |   |   |   |--- g_indie <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 41566.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  41566.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- g_indie >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- singlepalyer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- singlepalyer >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |--- familySharing >  0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 149.99
+|   |   |   |   |   |   |   |   |   |   |--- tag_Pixel Graphics <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |   |--- tag_Pixel Graphics >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |--- initial_price >  149.99
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 12.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month >  12.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- fullControlerSupport >  0.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 5.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 12622.50
+|   |   |   |   |   |   |   |   |   |   |--- required_age <= 12.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- required_age >  12.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  12622.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 27213.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  27213.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  5.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 6551.00
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 2337.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  2337.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  6551.00
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 10067.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  10067.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |--- release_year >  2021.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 7.50
+|   |   |   |   |   |   |   |   |--- g_indie <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Russian <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Controller <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- tag_Controller >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- Russian >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 6.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  6.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- g_indie >  0.50
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 5638.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  5638.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 6.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  6.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |--- total_user_reviews >  7.50
+|   |   |   |   |   |   |   |   |--- initial_price <= 114.99
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 13.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews >  13.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |   |   |--- g_strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- g_strategy >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |--- initial_price >  114.99
+|   |   |   |   |   |   |   |   |   |--- tag_Pixel Graphics <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- tag_Pixel Graphics >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_month <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |   |--- release_month >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- total_user_reviews >  28.50
+|   |   |   |   |   |   |--- release_year <= 2019.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 1458.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 99.00
+|   |   |   |   |   |   |   |   |   |--- has_content_warning <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 40.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews >  40.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |--- has_content_warning >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_year <= 2015.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- release_year >  2015.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  99.00
+|   |   |   |   |   |   |   |   |   |--- steamTradingCards <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- steamTradingCards >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |--- total_user_reviews >  1458.50
+|   |   |   |   |   |   |   |   |--- steamTradingCards <= 0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 9087.50
+|   |   |   |   |   |   |   |   |   |   |--- g_casual <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- g_casual >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- developers_code >  9087.50
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 2592.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews >  2592.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- steamTradingCards >  0.50
+|   |   |   |   |   |   |   |   |   |--- Korean <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- owners_code <= 5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- owners_code >  5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Korean >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- release_year >  2019.50
+|   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Visual Novel <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Comedy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- g_rpg <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- g_rpg >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |--- tag_Comedy >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Sci-fi <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- tag_Sci-fi >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- tag_Visual Novel >  0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 18457.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- developers_code >  18457.00
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 42930.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  42930.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |--- has_legal_notice <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Story Rich <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_month <= 10.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- release_month >  10.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |--- tag_Story Rich >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 35149.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  35149.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- has_legal_notice >  0.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 32797.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Horror <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- tag_Horror >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  32797.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 13.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  13.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |--- total_achievements >  6.50
+|   |   |   |--- tag_2D <= 0.50
+|   |   |   |   |--- release_year <= 2019.50
+|   |   |   |   |   |--- total_user_reviews <= 529.50
+|   |   |   |   |   |   |--- total_user_reviews <= 15.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 3.50
+|   |   |   |   |   |   |   |   |--- release_month <= 11.50
+|   |   |   |   |   |   |   |   |   |--- tag_Puzzle <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- has_legal_notice <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- has_legal_notice >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- tag_Puzzle >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- has_legal_notice <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- has_legal_notice >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_month >  11.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 3.50
+|   |   |   |   |   |   |   |   |   |   |--- has_dlc <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- has_dlc >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  3.50
+|   |   |   |   |   |   |   |   |   |   |--- Russian <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- Russian >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- total_user_reviews >  3.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 5.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 4.50
+|   |   |   |   |   |   |   |   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  4.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 3.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  3.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  5.50
+|   |   |   |   |   |   |   |   |   |--- tag_RPG <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- familySharing <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- familySharing >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 18
+|   |   |   |   |   |   |   |   |   |--- tag_RPG >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- mac <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- mac >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |--- total_user_reviews >  15.50
+|   |   |   |   |   |   |   |--- steamCloud <= 0.50
+|   |   |   |   |   |   |   |   |--- has_professional_reviews <= 0.50
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2015.50
+|   |   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |--- release_year >  2015.50
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 90.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 28
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews >  90.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |--- has_professional_reviews >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2015.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Mystery <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- tag_Mystery >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- release_year >  2015.50
+|   |   |   |   |   |   |   |   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |--- steamCloud >  0.50
+|   |   |   |   |   |   |   |   |--- owners_code <= 1.50
+|   |   |   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- mac <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- mac >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 21
+|   |   |   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 114.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews >  114.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |--- owners_code >  1.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 194.00
+|   |   |   |   |   |   |   |   |   |   |--- tag_Casual <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- tag_Casual >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  194.00
+|   |   |   |   |   |   |   |   |   |   |--- owners_code <= 3.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- owners_code >  3.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |--- total_user_reviews >  529.50
+|   |   |   |   |   |   |--- total_user_reviews <= 2962.50
+|   |   |   |   |   |   |   |--- tag_Visual Novel <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Retro <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Puzzle <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 23
+|   |   |   |   |   |   |   |   |   |   |--- tag_Puzzle >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |--- tag_Retro >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- average_playtime <= 2.32
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- average_playtime >  2.32
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 11.49
+|   |   |   |   |   |   |   |   |   |   |--- singlepalyer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- singlepalyer >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- initial_price >  11.49
+|   |   |   |   |   |   |   |   |   |   |--- tag_Physics <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- tag_Physics >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- tag_Visual Novel >  0.50
+|   |   |   |   |   |   |   |   |--- tag_Singleplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Polish <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- Polish >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- tag_Singleplayer >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |--- required_age <= 13.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- required_age >  13.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |--- total_user_reviews >  2962.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 41695.00
+|   |   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- g_strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- g_strategy >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- release_year <= 2011.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- release_year >  2011.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |   |--- g_ftp <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 12975.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  12975.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |--- g_ftp >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- Korean <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Korean >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- total_user_reviews >  41695.00
+|   |   |   |   |   |   |   |   |--- singlepalyer <= 0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 2.00
+|   |   |   |   |   |   |   |   |   |   |--- median_playtime <= 9.90
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |   |--- median_playtime >  9.90
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  2.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- singlepalyer >  0.50
+|   |   |   |   |   |   |   |   |   |--- pVp <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- pVp >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- has_professional_reviews <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- has_professional_reviews >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |--- release_year >  2019.50
+|   |   |   |   |   |--- total_user_reviews <= 12.50
+|   |   |   |   |   |   |--- total_user_reviews <= 3.50
+|   |   |   |   |   |   |   |--- release_month <= 2.50
+|   |   |   |   |   |   |   |   |--- required_age <= 9.50
+|   |   |   |   |   |   |   |   |   |--- tag_RPG <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Visual Novel <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Visual Novel >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- tag_RPG >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- steamCloud <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- steamCloud >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- required_age >  9.50
+|   |   |   |   |   |   |   |   |   |--- tag_2D Platformer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- German <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- German >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- tag_2D Platformer >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |--- release_month >  2.50
+|   |   |   |   |   |   |   |   |--- release_day_of_month <= 29.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_FPS <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- tag_FPS >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- required_age <= 14.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- required_age >  14.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- release_day_of_month >  29.50
+|   |   |   |   |   |   |   |   |   |--- tag_Family Friendly <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Family Friendly >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |--- total_user_reviews >  3.50
+|   |   |   |   |   |   |   |--- required_age <= 13.50
+|   |   |   |   |   |   |   |   |--- tag_Third Person <= 0.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 4625.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  4625.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements <= 13.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements >  13.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |--- tag_Third Person >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Colorful <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- tag_Colorful >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 2.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  2.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |--- required_age >  13.50
+|   |   |   |   |   |   |   |   |--- Japanese <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Atmospheric <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Top-Down <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- tag_Top-Down >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- tag_Atmospheric >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 7.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  7.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- Japanese >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- total_user_reviews >  12.50
+|   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |--- tag_Retro <= 0.50
+|   |   |   |   |   |   |   |   |--- has_professional_reviews <= 0.50
+|   |   |   |   |   |   |   |   |   |--- German <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Visual Novel <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 23
+|   |   |   |   |   |   |   |   |   |   |--- tag_Visual Novel >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |--- German >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 5996.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 18
+|   |   |   |   |   |   |   |   |   |   |--- total_user_reviews >  5996.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |--- has_professional_reviews >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Minimalist <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- Turkish <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |   |--- Turkish >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |--- tag_Minimalist >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 3090.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  3090.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Retro >  0.50
+|   |   |   |   |   |   |   |   |--- initial_price <= 32.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 41205.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 13.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  13.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  41205.50
+|   |   |   |   |   |   |   |   |   |   |--- system_reqs_code <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- system_reqs_code >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- initial_price >  32.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 2.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  2.00
+|   |   |   |   |   |   |   |   |   |   |--- g_action <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |   |--- g_action >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |--- tag_Puzzle <= 0.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 586.00
+|   |   |   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Anime <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- tag_Anime >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  586.00
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2020.50
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 21267.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  21267.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- release_year >  2020.50
+|   |   |   |   |   |   |   |   |   |   |--- median_playtime <= 0.41
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- median_playtime >  0.41
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |--- tag_Puzzle >  0.50
+|   |   |   |   |   |   |   |   |--- tag_Relaxing <= 0.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 14.50
+|   |   |   |   |   |   |   |   |   |   |--- median_playtime <= 4.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- median_playtime >  4.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  14.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Action <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- tag_Action >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |--- tag_Relaxing >  0.50
+|   |   |   |   |   |   |   |   |   |--- g_adventure <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- g_adventure >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 14870.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  14870.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |--- tag_2D >  0.50
+|   |   |   |   |--- total_user_reviews <= 1971.50
+|   |   |   |   |   |--- release_year <= 2019.50
+|   |   |   |   |   |   |--- total_user_reviews <= 152.50
+|   |   |   |   |   |   |   |--- total_achievements <= 386.00
+|   |   |   |   |   |   |   |   |--- release_year <= 2014.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Casual <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- tag_Casual >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 17.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month >  17.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- release_year >  2014.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 2.14
+|   |   |   |   |   |   |   |   |   |   |--- g_strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- g_strategy >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |--- initial_price >  2.14
+|   |   |   |   |   |   |   |   |   |   |--- owners_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- owners_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |--- total_achievements >  386.00
+|   |   |   |   |   |   |   |   |--- tag_Arcade <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- tag_Arcade >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |--- total_user_reviews >  152.50
+|   |   |   |   |   |   |   |--- g_strategy <= 0.50
+|   |   |   |   |   |   |   |   |--- owners_code <= 1.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 18.99
+|   |   |   |   |   |   |   |   |   |   |--- release_year <= 2013.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |   |--- release_year >  2013.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- initial_price >  18.99
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements <= 12.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements >  12.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- owners_code >  1.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 373.50
+|   |   |   |   |   |   |   |   |   |   |--- owners_code <= 3.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |   |--- owners_code >  3.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  373.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Puzzle <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- tag_Puzzle >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |--- g_strategy >  0.50
+|   |   |   |   |   |   |   |   |--- steamTradingCards <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Dutch <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 15.99
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  15.99
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Dutch >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- steamTradingCards >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 10.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Exploration <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- tag_Exploration >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- release_month >  10.50
+|   |   |   |   |   |   |   |   |   |   |--- developers_code <= 2921.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |   |--- developers_code >  2921.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |--- release_year >  2019.50
+|   |   |   |   |   |   |--- total_user_reviews <= 10.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 3.50
+|   |   |   |   |   |   |   |   |--- developers_code <= 2158.50
+|   |   |   |   |   |   |   |   |   |--- has_website <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- has_website >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements <= 18.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements >  18.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- developers_code >  2158.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 19.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month >  19.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 1.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  1.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |--- total_user_reviews >  3.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 71.50
+|   |   |   |   |   |   |   |   |   |   |--- release_month <= 5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- release_month >  5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  71.50
+|   |   |   |   |   |   |   |   |   |   |--- Korean <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Korean >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 9.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  9.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |--- total_user_reviews >  10.50
+|   |   |   |   |   |   |   |--- Chinese <= 0.50
+|   |   |   |   |   |   |   |   |--- g_strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 1.43
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 22.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_month >  22.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |--- initial_price >  1.43
+|   |   |   |   |   |   |   |   |   |   |--- Russian <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 18
+|   |   |   |   |   |   |   |   |   |   |--- Russian >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 18
+|   |   |   |   |   |   |   |   |--- g_strategy >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- Russian <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- Russian >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- fullControlerSupport <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- fullControlerSupport >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- Chinese >  0.50
+|   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |--- linux <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Minimalist <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- tag_Minimalist >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- linux >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- required_age <= 15.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- required_age >  15.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 39.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Choices Matter <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- tag_Choices Matter >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  39.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |--- total_user_reviews >  1971.50
+|   |   |   |   |   |--- total_user_reviews <= 4603.00
+|   |   |   |   |   |   |--- release_month <= 7.50
+|   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |--- required_age <= 1.50
+|   |   |   |   |   |   |   |   |   |--- tag_2D Platformer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Early Access <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Early Access >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- tag_2D Platformer >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- mac <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |   |--- mac >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- required_age >  1.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 28.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- tag_Strategy >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  28.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |--- required_age <= 1.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 30.00
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 3096.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  3096.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  30.00
+|   |   |   |   |   |   |   |   |   |   |--- initial_price <= 17.49
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- initial_price >  17.49
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- required_age >  1.50
+|   |   |   |   |   |   |   |   |   |--- g_rpg <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 13885.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  13885.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- g_rpg >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code <= 14200.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- publishers_code >  14200.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |--- release_month >  7.50
+|   |   |   |   |   |   |   |--- Chinese <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Survival <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Survival >  0.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 27.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  27.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- Chinese >  0.50
+|   |   |   |   |   |   |   |   |--- linux <= 0.50
+|   |   |   |   |   |   |   |   |   |--- median_playtime <= 12.22
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- median_playtime >  12.22
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- linux >  0.50
+|   |   |   |   |   |   |   |   |   |--- Polish <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements <= 18.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |   |--- total_achievements >  18.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Polish >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- total_user_reviews >  4603.00
+|   |   |   |   |   |   |--- has_professional_reviews <= 0.50
+|   |   |   |   |   |   |   |--- system_reqs_code <= 2.50
+|   |   |   |   |   |   |   |   |--- tag_Stylized <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Stylized >  0.50
+|   |   |   |   |   |   |   |   |   |--- owners_code <= 7.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- owners_code >  7.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |--- system_reqs_code >  2.50
+|   |   |   |   |   |   |   |   |--- tag_Combat <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Combat >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |--- has_professional_reviews >  0.50
+|   |   |   |   |   |   |   |--- initial_price <= 37.49
+|   |   |   |   |   |   |   |   |--- total_achievements <= 26.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- total_achievements >  26.50
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2020.50
+|   |   |   |   |   |   |   |   |   |   |--- tag_Early Access <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- tag_Early Access >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- release_year >  2020.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- initial_price >  37.49
+|   |   |   |   |   |   |   |   |--- class: 4

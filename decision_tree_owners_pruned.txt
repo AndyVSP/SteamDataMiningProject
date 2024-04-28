@@ -1,0 +1,94 @@
+|--- proportion_recommended <= 0.00
+|   |--- reviews_proportion_positive <= 0.07
+|   |   |--- tag_Singleplayer <= 0.50
+|   |   |   |--- tag_Casual <= 0.50
+|   |   |   |   |--- tag_3D <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- tag_3D >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- tag_Casual >  0.50
+|   |   |   |   |--- initial_price <= 3.49
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- initial_price >  3.49
+|   |   |   |   |   |--- class: 1
+|   |   |--- tag_Singleplayer >  0.50
+|   |   |   |--- has_dlc <= 0.50
+|   |   |   |   |--- tag_Shooter <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- tag_Shooter >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- has_dlc >  0.50
+|   |   |   |   |--- German <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- German >  0.50
+|   |   |   |   |   |--- class: 1
+|   |--- reviews_proportion_positive >  0.07
+|   |   |--- g_ftp <= 0.50
+|   |   |   |--- steamTradingCards <= 0.50
+|   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- steamTradingCards >  0.50
+|   |   |   |   |--- reviews_proportion_positive <= 0.78
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- reviews_proportion_positive >  0.78
+|   |   |   |   |   |--- class: 1
+|   |   |--- g_ftp >  0.50
+|   |   |   |--- tag_Multiplayer <= 0.50
+|   |   |   |   |--- release_year <= 2016.50
+|   |   |   |   |   |--- class: 3
+|   |   |   |   |--- release_year >  2016.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- tag_Multiplayer >  0.50
+|   |   |   |   |--- release_year <= 2017.50
+|   |   |   |   |   |--- class: 5
+|   |   |   |   |--- release_year >  2017.50
+|   |   |   |   |   |--- class: 2
+|--- proportion_recommended >  0.00
+|   |--- tag_Multiplayer <= 0.50
+|   |   |--- release_year <= 2016.50
+|   |   |   |--- tag_Singleplayer <= 0.50
+|   |   |   |   |--- proportion_recommended <= 0.69
+|   |   |   |   |   |--- class: 3
+|   |   |   |   |--- proportion_recommended >  0.69
+|   |   |   |   |   |--- class: 2
+|   |   |   |--- tag_Singleplayer >  0.50
+|   |   |   |   |--- release_year <= 2013.50
+|   |   |   |   |   |--- class: 5
+|   |   |   |   |--- release_year >  2013.50
+|   |   |   |   |   |--- class: 4
+|   |   |--- release_year >  2016.50
+|   |   |   |--- steamTradingCards <= 0.50
+|   |   |   |   |--- French <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- French >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- steamTradingCards >  0.50
+|   |   |   |   |--- initial_price <= 15.49
+|   |   |   |   |   |--- class: 2
+|   |   |   |   |--- initial_price >  15.49
+|   |   |   |   |   |--- class: 2
+|   |--- tag_Multiplayer >  0.50
+|   |   |--- release_year <= 2016.50
+|   |   |   |--- Chinese <= 0.50
+|   |   |   |   |--- proportion_recommended <= 0.09
+|   |   |   |   |   |--- class: 8
+|   |   |   |   |--- proportion_recommended >  0.09
+|   |   |   |   |   |--- class: 5
+|   |   |   |--- Chinese >  0.50
+|   |   |   |   |--- tag_FPS <= 0.50
+|   |   |   |   |   |--- class: 5
+|   |   |   |   |--- tag_FPS >  0.50
+|   |   |   |   |   |--- class: 9
+|   |   |--- release_year >  2016.50
+|   |   |   |--- Russian <= 0.50
+|   |   |   |   |--- proportion_recommended <= 0.20
+|   |   |   |   |   |--- class: 7
+|   |   |   |   |--- proportion_recommended >  0.20
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- Russian >  0.50
+|   |   |   |   |--- has_dlc <= 0.50
+|   |   |   |   |   |--- class: 2
+|   |   |   |   |--- has_dlc >  0.50
+|   |   |   |   |   |--- class: 5

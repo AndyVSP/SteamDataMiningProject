@@ -1,0 +1,949 @@
+|--- total_user_reviews <= 0.50
+|   |--- class: 1
+|--- total_user_reviews >  0.50
+|   |--- total_user_reviews <= 2.50
+|   |   |--- total_user_reviews <= 1.50
+|   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |--- total_achievements <= 0.50
+|   |   |   |   |   |--- tag_Pixel Graphics <= 0.50
+|   |   |   |   |   |   |--- initial_price <= 19.49
+|   |   |   |   |   |   |   |--- publishers_code <= 1915.00
+|   |   |   |   |   |   |   |   |--- developers_code <= 527.00
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- developers_code >  527.00
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 8620.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- developers_code >  8620.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- publishers_code >  1915.00
+|   |   |   |   |   |   |   |   |--- tag_First-Person <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_RPG <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_RPG >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_First-Person >  0.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 7878.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  7878.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- initial_price >  19.49
+|   |   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |   |--- release_month <= 8.00
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- release_month >  8.00
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- tag_Pixel Graphics >  0.50
+|   |   |   |   |   |   |--- coOp <= 0.50
+|   |   |   |   |   |   |   |--- publishers_code <= 15167.50
+|   |   |   |   |   |   |   |   |--- tag_Arcade <= 0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 2.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  2.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Arcade >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_month >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- publishers_code >  15167.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 40384.00
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 37747.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- developers_code >  37747.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- publishers_code >  40384.00
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- coOp >  0.50
+|   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |--- total_achievements >  0.50
+|   |   |   |   |   |--- tag_Action-Adventure <= 0.50
+|   |   |   |   |   |   |--- release_day_of_month <= 2.50
+|   |   |   |   |   |   |   |--- has_website <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- has_website >  0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- release_day_of_month >  2.50
+|   |   |   |   |   |   |   |--- Dutch <= 0.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 28653.00
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 27016.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  27016.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- publishers_code >  28653.00
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- Dutch >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- tag_Action-Adventure >  0.50
+|   |   |   |   |   |   |--- required_age <= 10.50
+|   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- required_age >  10.50
+|   |   |   |   |   |   |   |--- class: 5
+|   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |--- tag_Colorful <= 0.50
+|   |   |   |   |   |--- total_achievements <= 8.50
+|   |   |   |   |   |   |--- tag_Family Friendly <= 0.50
+|   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2017.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- release_month >  3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- release_year >  2017.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 14.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  14.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 4.50
+|   |   |   |   |   |   |   |   |   |--- has_website <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- has_website >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- release_day_of_week_code >  4.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- tag_Family Friendly >  0.50
+|   |   |   |   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 22529.00
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- publishers_code >  22529.00
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |   |   |   |--- release_month <= 5.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_month >  5.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- total_achievements >  8.50
+|   |   |   |   |   |   |--- release_month <= 4.50
+|   |   |   |   |   |   |   |--- developers_code <= 21443.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- developers_code >  21443.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- release_month >  4.50
+|   |   |   |   |   |   |   |--- has_dlc <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Survival <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- tag_Survival >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- has_dlc >  0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |--- tag_Colorful >  0.50
+|   |   |   |   |   |--- publishers_code <= 36529.50
+|   |   |   |   |   |   |--- g_rpg <= 0.50
+|   |   |   |   |   |   |   |--- German <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 7.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  7.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 29038.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- developers_code >  29038.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- German >  0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- g_rpg >  0.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- publishers_code >  36529.50
+|   |   |   |   |   |   |--- tag_Third Person <= 0.50
+|   |   |   |   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- tag_Third Person >  0.50
+|   |   |   |   |   |   |   |--- class: 5
+|   |   |--- total_user_reviews >  1.50
+|   |   |   |--- total_achievements <= 5.50
+|   |   |   |   |--- tag_Pixel Graphics <= 0.50
+|   |   |   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |   |   |--- English <= 0.50
+|   |   |   |   |   |   |   |--- g_adventure <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |--- g_adventure >  0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- English >  0.50
+|   |   |   |   |   |   |   |--- Chinese <= 0.50
+|   |   |   |   |   |   |   |   |--- release_day_of_month <= 25.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 37622.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  37622.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_day_of_month >  25.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_month >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- Chinese >  0.50
+|   |   |   |   |   |   |   |   |--- Japanese <= 0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 4.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  4.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- Japanese >  0.50
+|   |   |   |   |   |   |   |   |   |--- Dutch <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- Dutch >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |   |   |--- tag_Singleplayer <= 0.50
+|   |   |   |   |   |   |   |--- tag_Arcade <= 0.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 2372.00
+|   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- publishers_code >  2372.00
+|   |   |   |   |   |   |   |   |   |--- release_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |--- tag_Arcade >  0.50
+|   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |--- tag_Singleplayer >  0.50
+|   |   |   |   |   |   |   |--- release_day_of_month <= 25.50
+|   |   |   |   |   |   |   |   |--- tag_Sci-fi <= 0.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 11.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_month >  11.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Sci-fi >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_month >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- release_day_of_month >  25.50
+|   |   |   |   |   |   |   |   |--- initial_price <= 5.49
+|   |   |   |   |   |   |   |   |   |--- required_age <= 10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- required_age >  10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- initial_price >  5.49
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 24460.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  24460.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |--- tag_Pixel Graphics >  0.50
+|   |   |   |   |   |--- tag_Strategy <= 0.50
+|   |   |   |   |   |   |--- release_year <= 2019.50
+|   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |--- release_year >  2019.50
+|   |   |   |   |   |   |   |--- initial_price <= 4.49
+|   |   |   |   |   |   |   |   |--- tag_Adventure <= 0.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Adventure >  0.50
+|   |   |   |   |   |   |   |   |   |--- required_age <= 10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- required_age >  10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |--- initial_price >  4.49
+|   |   |   |   |   |   |   |   |--- release_year <= 2021.50
+|   |   |   |   |   |   |   |   |   |--- tag_Shooter <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Shooter >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_year >  2021.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- tag_Strategy >  0.50
+|   |   |   |   |   |   |--- tag_Colorful <= 0.50
+|   |   |   |   |   |   |   |--- tag_RPG <= 0.50
+|   |   |   |   |   |   |   |   |--- developers_code <= 25762.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- developers_code >  25762.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- tag_RPG >  0.50
+|   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |--- tag_Colorful >  0.50
+|   |   |   |   |   |   |   |--- class: 5
+|   |   |   |--- total_achievements >  5.50
+|   |   |   |   |--- tag_Linear <= 0.50
+|   |   |   |   |   |--- publishers_code <= 5399.50
+|   |   |   |   |   |   |--- release_month <= 5.50
+|   |   |   |   |   |   |   |--- g_action <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- g_action >  0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- release_month >  5.50
+|   |   |   |   |   |   |   |--- tag_Family Friendly <= 0.50
+|   |   |   |   |   |   |   |   |--- developers_code <= 5219.00
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 21.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  21.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- developers_code >  5219.00
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Family Friendly >  0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- publishers_code >  5399.50
+|   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |--- singlepalyer <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- singlepalyer >  0.50
+|   |   |   |   |   |   |   |   |--- tag_Physics <= 0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 12844.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- developers_code >  12844.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Physics >  0.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 19.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  19.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |--- tag_Relaxing <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Adventure <= 0.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 11.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  11.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Adventure >  0.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 15.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  15.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |--- tag_Relaxing >  0.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |--- tag_Linear >  0.50
+|   |   |   |   |   |--- initial_price <= 2.25
+|   |   |   |   |   |   |--- developers_code <= 26568.50
+|   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- developers_code >  26568.50
+|   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- initial_price >  2.25
+|   |   |   |   |   |   |--- tag_3D <= 0.50
+|   |   |   |   |   |   |   |--- total_achievements <= 18.00
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- total_achievements >  18.00
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- tag_3D >  0.50
+|   |   |   |   |   |   |   |--- required_age <= 5.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- required_age >  5.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |--- total_user_reviews >  2.50
+|   |   |--- total_achievements <= 6.50
+|   |   |   |--- total_user_reviews <= 3.50
+|   |   |   |   |--- release_year <= 2020.50
+|   |   |   |   |   |--- tag_VR <= 0.50
+|   |   |   |   |   |   |--- pVp <= 0.50
+|   |   |   |   |   |   |   |--- initial_price <= 14.99
+|   |   |   |   |   |   |   |   |--- required_age <= 15.50
+|   |   |   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- required_age >  15.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- initial_price >  14.99
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- pVp >  0.50
+|   |   |   |   |   |   |   |--- publishers_code <= 33827.00
+|   |   |   |   |   |   |   |   |--- tag_Action <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Action >  0.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 14828.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  14828.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- publishers_code >  33827.00
+|   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |--- tag_VR >  0.50
+|   |   |   |   |   |   |--- initial_price <= 1.49
+|   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- initial_price >  1.49
+|   |   |   |   |   |   |   |--- release_day_of_week_code <= 3.50
+|   |   |   |   |   |   |   |   |--- developers_code <= 22212.50
+|   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- developers_code >  22212.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- release_day_of_week_code >  3.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 19448.00
+|   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- publishers_code >  19448.00
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |--- release_year >  2020.50
+|   |   |   |   |   |--- developers_code <= 44073.50
+|   |   |   |   |   |   |--- required_age <= 13.50
+|   |   |   |   |   |   |   |--- release_year <= 2023.50
+|   |   |   |   |   |   |   |   |--- tag_Retro <= 0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 22.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  22.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- tag_Retro >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_3D <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_3D >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |--- release_year >  2023.50
+|   |   |   |   |   |   |   |   |--- tag_Indie <= 0.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 21650.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  21650.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Indie >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- required_age >  13.50
+|   |   |   |   |   |   |   |--- g_strategy <= 0.50
+|   |   |   |   |   |   |   |   |--- publishers_code <= 4438.00
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- publishers_code >  4438.00
+|   |   |   |   |   |   |   |   |   |--- tag_Pixel Graphics <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- tag_Pixel Graphics >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- g_strategy >  0.50
+|   |   |   |   |   |   |   |   |--- developers_code <= 15465.00
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- developers_code >  15465.00
+|   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |--- developers_code >  44073.50
+|   |   |   |   |   |   |--- tag_2D <= 0.50
+|   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |--- Chinese <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- Chinese >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |--- tag_2D >  0.50
+|   |   |   |   |   |   |   |--- developers_code <= 45231.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- developers_code >  45231.50
+|   |   |   |   |   |   |   |   |--- English <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- English >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |--- total_user_reviews >  3.50
+|   |   |   |   |--- tag_2D <= 0.50
+|   |   |   |   |   |--- total_user_reviews <= 92.50
+|   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 7.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 5.50
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  5.50
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |--- total_user_reviews >  7.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2018.50
+|   |   |   |   |   |   |   |   |   |--- is_free <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- is_free >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- release_year >  2018.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 43.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  43.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 7.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 5.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 42735.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- developers_code >  42735.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  5.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 45664.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- developers_code >  45664.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- total_user_reviews >  7.50
+|   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Colorful <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Colorful >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |--- system_reqs_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- system_reqs_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- total_user_reviews >  92.50
+|   |   |   |   |   |   |--- total_user_reviews <= 553.50
+|   |   |   |   |   |   |   |--- release_year <= 2018.50
+|   |   |   |   |   |   |   |   |--- tag_Action <= 0.50
+|   |   |   |   |   |   |   |   |   |--- owners_code <= 4.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- owners_code >  4.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- tag_Action >  0.50
+|   |   |   |   |   |   |   |   |   |--- median_playtime <= 2.11
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- median_playtime >  2.11
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |--- release_year >  2018.50
+|   |   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Adventure <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- tag_Adventure >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |--- total_user_reviews >  553.50
+|   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 3408.00
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2015.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_year >  2015.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  3408.00
+|   |   |   |   |   |   |   |   |   |--- tag_3D <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_3D >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |--- initial_price <= 2.49
+|   |   |   |   |   |   |   |   |   |--- steamCloud <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- steamCloud >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- initial_price >  2.49
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 1175.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  1175.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |--- tag_2D >  0.50
+|   |   |   |   |   |--- total_user_reviews <= 28.50
+|   |   |   |   |   |   |--- release_year <= 2021.50
+|   |   |   |   |   |   |   |--- fullControlerSupport <= 0.50
+|   |   |   |   |   |   |   |   |--- familySharing <= 0.50
+|   |   |   |   |   |   |   |   |   |--- g_indie <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- g_indie >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- familySharing >  0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 149.99
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  149.99
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- fullControlerSupport >  0.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 5.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 12622.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  12622.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  5.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 6551.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  6551.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- release_year >  2021.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 7.50
+|   |   |   |   |   |   |   |   |--- g_indie <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Russian <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- Russian >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- g_indie >  0.50
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- total_user_reviews >  7.50
+|   |   |   |   |   |   |   |   |--- g_strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- g_strategy >  0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 34.99
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  34.99
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- total_user_reviews >  28.50
+|   |   |   |   |   |   |--- release_year <= 2019.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 1458.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 99.00
+|   |   |   |   |   |   |   |   |   |--- has_content_warning <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- has_content_warning >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  99.00
+|   |   |   |   |   |   |   |   |   |--- steamTradingCards <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- steamTradingCards >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |--- total_user_reviews >  1458.50
+|   |   |   |   |   |   |   |   |--- steamTradingCards <= 0.50
+|   |   |   |   |   |   |   |   |   |--- has_dlc <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- has_dlc >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- steamTradingCards >  0.50
+|   |   |   |   |   |   |   |   |   |--- Korean <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- Korean >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- release_year >  2019.50
+|   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Visual Novel <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Comedy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Comedy >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Visual Novel >  0.50
+|   |   |   |   |   |   |   |   |   |--- developers_code <= 18457.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- developers_code >  18457.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |--- has_legal_notice <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Story Rich <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Story Rich >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- has_legal_notice >  0.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 32797.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  32797.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |--- total_achievements >  6.50
+|   |   |   |--- tag_2D <= 0.50
+|   |   |   |   |--- release_year <= 2019.50
+|   |   |   |   |   |--- total_user_reviews <= 529.50
+|   |   |   |   |   |   |--- total_user_reviews <= 15.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 3.50
+|   |   |   |   |   |   |   |   |--- release_month <= 11.50
+|   |   |   |   |   |   |   |   |   |--- tag_Puzzle <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Puzzle >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_month >  11.50
+|   |   |   |   |   |   |   |   |   |--- tag_Action <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Action >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- total_user_reviews >  3.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 5.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 4.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  4.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  5.50
+|   |   |   |   |   |   |   |   |   |--- tag_RPG <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_RPG >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |--- total_user_reviews >  15.50
+|   |   |   |   |   |   |   |--- steamCloud <= 0.50
+|   |   |   |   |   |   |   |   |--- has_professional_reviews <= 0.50
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2015.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- release_year >  2015.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- has_professional_reviews >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2015.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- release_year >  2015.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- steamCloud >  0.50
+|   |   |   |   |   |   |   |   |--- owners_code <= 1.50
+|   |   |   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- owners_code >  1.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 194.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  194.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |--- total_user_reviews >  529.50
+|   |   |   |   |   |   |--- total_user_reviews <= 2962.50
+|   |   |   |   |   |   |   |--- tag_Visual Novel <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Retro <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Retro >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 11.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- initial_price >  11.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |--- tag_Visual Novel >  0.50
+|   |   |   |   |   |   |   |   |--- tag_Singleplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 17789.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  17789.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Singleplayer >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- total_user_reviews >  2962.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 41695.00
+|   |   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |   |--- g_ftp <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- g_ftp >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |--- total_user_reviews >  41695.00
+|   |   |   |   |   |   |   |   |--- singlepalyer <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- singlepalyer >  0.50
+|   |   |   |   |   |   |   |   |   |--- pVp <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- pVp >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |--- release_year >  2019.50
+|   |   |   |   |   |--- total_user_reviews <= 12.50
+|   |   |   |   |   |   |--- total_user_reviews <= 3.50
+|   |   |   |   |   |   |   |--- release_month <= 2.50
+|   |   |   |   |   |   |   |   |--- required_age <= 9.50
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- required_age >  9.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- release_month >  2.50
+|   |   |   |   |   |   |   |   |--- release_day_of_month <= 29.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_day_of_month >  29.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- total_user_reviews >  3.50
+|   |   |   |   |   |   |   |--- required_age <= 13.50
+|   |   |   |   |   |   |   |   |--- tag_Third Person <= 0.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Third Person >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- required_age >  13.50
+|   |   |   |   |   |   |   |   |--- Japanese <= 0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Atmospheric <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Atmospheric >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- Japanese >  0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 7.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- initial_price >  7.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- total_user_reviews >  12.50
+|   |   |   |   |   |   |--- tag_Cute <= 0.50
+|   |   |   |   |   |   |   |--- tag_Retro <= 0.50
+|   |   |   |   |   |   |   |   |--- has_professional_reviews <= 0.50
+|   |   |   |   |   |   |   |   |   |--- German <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- German >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- has_professional_reviews >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Minimalist <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Minimalist >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Retro >  0.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |   |--- tag_Fantasy <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Fantasy >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 3.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  3.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- tag_Cute >  0.50
+|   |   |   |   |   |   |   |--- tag_Puzzle <= 0.50
+|   |   |   |   |   |   |   |   |--- total_user_reviews <= 586.00
+|   |   |   |   |   |   |   |   |   |--- tag_Open World <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Open World >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- total_user_reviews >  586.00
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2020.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_year >  2020.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- tag_Puzzle >  0.50
+|   |   |   |   |   |   |   |   |--- tag_Relaxing <= 0.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 14.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  14.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Relaxing >  0.50
+|   |   |   |   |   |   |   |   |   |--- g_adventure <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- g_adventure >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |--- tag_2D >  0.50
+|   |   |   |   |--- total_user_reviews <= 1971.50
+|   |   |   |   |   |--- release_year <= 2019.50
+|   |   |   |   |   |   |--- total_user_reviews <= 152.50
+|   |   |   |   |   |   |   |--- total_achievements <= 386.00
+|   |   |   |   |   |   |   |   |--- release_year <= 2014.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |   |--- release_month >  8.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- release_year >  2014.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 2.14
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  2.14
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- total_achievements >  386.00
+|   |   |   |   |   |   |   |   |--- tag_Story Rich <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |   |   |--- tag_Story Rich >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |   |--- total_user_reviews >  152.50
+|   |   |   |   |   |   |   |--- g_strategy <= 0.50
+|   |   |   |   |   |   |   |   |--- owners_code <= 1.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 18.99
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  18.99
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- owners_code >  1.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 373.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  373.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- g_strategy >  0.50
+|   |   |   |   |   |   |   |   |--- steamTradingCards <= 0.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 736.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  736.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- steamTradingCards >  0.50
+|   |   |   |   |   |   |   |   |   |--- release_month <= 10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |   |--- release_month >  10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |--- release_year >  2019.50
+|   |   |   |   |   |   |--- total_user_reviews <= 10.50
+|   |   |   |   |   |   |   |--- total_user_reviews <= 3.50
+|   |   |   |   |   |   |   |   |--- developers_code <= 2230.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- developers_code >  2230.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- total_user_reviews >  3.50
+|   |   |   |   |   |   |   |   |--- release_year <= 2022.50
+|   |   |   |   |   |   |   |   |   |--- total_achievements <= 71.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_achievements >  71.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- release_year >  2022.50
+|   |   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- total_user_reviews >  10.50
+|   |   |   |   |   |   |   |--- Chinese <= 0.50
+|   |   |   |   |   |   |   |   |--- g_strategy <= 0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 1.43
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  1.43
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- g_strategy >  0.50
+|   |   |   |   |   |   |   |   |   |--- tag_Simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- tag_Simulation >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- Chinese >  0.50
+|   |   |   |   |   |   |   |   |--- g_simulation <= 0.50
+|   |   |   |   |   |   |   |   |   |--- linux <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- linux >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- g_simulation >  0.50
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews <= 39.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- total_user_reviews >  39.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |--- total_user_reviews >  1971.50
+|   |   |   |   |   |--- total_user_reviews <= 4603.00
+|   |   |   |   |   |   |--- release_month <= 7.50
+|   |   |   |   |   |   |   |--- multiplayer <= 0.50
+|   |   |   |   |   |   |   |   |--- tag_Pixel Graphics <= 0.50
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code <= 3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_day_of_week_code >  3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- tag_Pixel Graphics >  0.50
+|   |   |   |   |   |   |   |   |   |--- initial_price <= 15.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- initial_price >  15.49
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- multiplayer >  0.50
+|   |   |   |   |   |   |   |   |--- required_age <= 1.50
+|   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |   |   |--- required_age >  1.50
+|   |   |   |   |   |   |   |   |   |--- release_year <= 2018.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- release_year >  2018.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 4
+|   |   |   |   |   |   |--- release_month >  7.50
+|   |   |   |   |   |   |   |--- Chinese <= 0.50
+|   |   |   |   |   |   |   |   |--- coOp <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- coOp >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- Chinese >  0.50
+|   |   |   |   |   |   |   |   |--- linux <= 0.50
+|   |   |   |   |   |   |   |   |   |--- median_playtime <= 10.54
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- median_playtime >  10.54
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- linux >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |--- total_user_reviews >  4603.00
+|   |   |   |   |   |   |--- has_professional_reviews <= 0.50
+|   |   |   |   |   |   |   |--- initial_price <= 22.49
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- initial_price >  22.49
+|   |   |   |   |   |   |   |   |--- Russian <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- Russian >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |--- has_professional_reviews >  0.50
+|   |   |   |   |   |   |   |--- total_achievements <= 23.50
+|   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |--- total_achievements >  23.50
+|   |   |   |   |   |   |   |   |--- steamCloud <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |--- steamCloud >  0.50
+|   |   |   |   |   |   |   |   |   |--- publishers_code <= 19581.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
+|   |   |   |   |   |   |   |   |   |--- publishers_code >  19581.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 5
